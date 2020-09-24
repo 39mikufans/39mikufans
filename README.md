@@ -21,10 +21,10 @@ _And, this is the best [song](https://music.163.com/#/song?id=22636647) I think,
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=Windows)
 ![MacOS](https://img.shields.io/badge/MacOS-999999?logo=Apple&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)
-<br>
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=Markdown&logoColor=white)
 ![LateX](https://img.shields.io/badge/LateX-008080?logo=Latex)
 ![Mathworks](https://img.shields.io/badge/Mathworks-0076A8?logo=Mathworks)
+<br>
 ![NS](https://img.shields.io/badge/Nintendo%20Switch-E60012?logo=Nintendo+Switch)
 ![Xbox](https://img.shields.io/badge/Xbox-107C10?logo=Xbox)
 ![Battle](https://img.shields.io/badge/Battle.net-0076A8?logo=Battle.net)
