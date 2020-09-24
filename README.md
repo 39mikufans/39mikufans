@@ -24,6 +24,4 @@ _And, this is the best [song](https://music.163.com/#/song?id=22636647) I think,
 ![Markdown](https://img.shields.io/badge/Markdown-804020?logo=Markdown&logoColor=white)
 
 
-**Proudly develop with ❤️ and .NET**
-<br>
-[![InternetExplorerCertification](https://cdn.jsdelivr.net/gh/KevinZonda/KevinZonda@141c70efebef04086195f14e2b6febb8c5a63787/img/IE-Certification.gif)](https://www.microsoft.com/en-gb/download/internet-explorer.aspx)
+*Proudly develop with ❤️ and .NET* [![InternetExplorerCertification](https://cdn.jsdelivr.net/gh/KevinZonda/KevinZonda@141c70efebef04086195f14e2b6febb8c5a63787/img/IE-Certification.gif)](https://www.microsoft.com/en-gb/download/internet-explorer.aspx)
