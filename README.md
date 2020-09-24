@@ -22,6 +22,6 @@ _And, this is the best [song](https://music.163.com/#/song?id=22636647) I think,
 ![MacOS](https://img.shields.io/badge/MacOS-000000?logo=Apple&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-5C2D91?logo=Python&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-804020?logo=Markdown&logoColor=white)
-
+![LateX](https://img.shields.io/badge/LateX-00a080?logo=Latex)
 
 *Proudly develop with ❤️ and .NET* [![InternetExplorerCertification](https://cdn.jsdelivr.net/gh/KevinZonda/KevinZonda@141c70efebef04086195f14e2b6febb8c5a63787/img/IE-Certification.gif)](https://www.microsoft.com/en-gb/download/internet-explorer.aspx)
