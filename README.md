@@ -16,7 +16,7 @@ _And, this is the best [song](https://music.163.com/#/song?id=22636647) I think,
  
  <br>
  
-![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net)
+![.NET](https://img.shields.io/badge/.NET-00a080?logo=.net)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=Visual+Studio+Code)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=Windows)
 ![MacOS](https://img.shields.io/badge/MacOS-000000?logo=Apple&logoColor=white)
