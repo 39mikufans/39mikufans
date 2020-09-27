@@ -1,6 +1,6 @@
-Favorite math and physics, but only in algebra and analysis; financial engineering migrant workers, eager to find my future direction
+*Favorite math and physics, but only in algebra and analysis; financial engineering migrant workers, eager to find my future direction
 
-Currently studying at Southeast University
+*Currently studying at Southeast University*
 
 <br>
 
