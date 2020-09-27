@@ -12,7 +12,7 @@ _In memory of Mr. Gosset, his work is of extraordinary significance to us:_
 
 <br>
 
-*And, [this](https://music.163.com/#/song?id=22636647) is the best Touhou song I think.*
+*And, [this](https://music.163.com/#/song?id=22636647) is the best Touhou song I think.[Here](https://w.atwiki.jp/toho/) you can find all Touhou related music.*
 
 <br>
 
