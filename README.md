@@ -1,9 +1,3 @@
-*Favorite math and physics, but only in algebra and analysis; financial engineering migrant workers, eager to find my future direction*
-
-*Currently studying at [Southeast University](https://www.seu.edu.cn/english/main.htm)*
-
-<br>
-
 _In memory of [Mr. Gosset](https://en.wikipedia.org/wiki/Gosset), his work is of extraordinary significance to us:_
 
 ![](http://latex.codecogs.com/svg.latex?t=\frac{\bar{X}-\mu}{\frac{S_n}{\sqrt(n)}})
