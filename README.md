@@ -1,19 +1,16 @@
-*BA in Economics and BA in Law, postgraduate studies in Theoretical Physics in progress. Loves **ACGN**, especially galgames and DOTA2.*
+<font color="red"> σ`∀´) ﾟ∀ﾟ)σ </font>
 <br>
-*I often feel confused about the emotions between people and my future, and feel that I read too little but think too much.*
+<font color="red">__♫ 心ごと体ごと　全部記憶の中の幻 ♫__</font>
 <br>
-
-*Favourite ACGN works are **Touhou Project** series. And, [this](https://music.163.com/#/song?id=22636647) is the best Touhou song I think.[Here](https://w.atwiki.jp/toho/) you can find all Touhou related music.*
-*If you haven’t heard of Touhou Project, I believe it will open your eyes.→* [![reimu](http://touhousupport.gitee.io/some-picture-and-gif/IMG_4293.gif)](https://en.wikipedia.org/wiki/Touhou_Project)
+<font color=#39c5bb>__♫ 本当の愛情が　指先から流れ出した ♫__</font>
 <br>
-*If you have a topic of interest, feel free to contact me by [email](mailto:innovation024@icloud.com).*
- <br>
- 
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=Visual+Studio+Code)](https://code.visualstudio.com/)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?logo=Windows)](https://www.microsoft.com/en-us/windows)
-[![MacOS](https://img.shields.io/badge/MacOS-999999?logo=Apple&logoColor=white)](https://support.apple.com/zh-cn/macos)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)](https://www.python.org/)
-![Markdown](https://img.shields.io/badge/Markdown-000000?logo=Markdown&logoColor=white)
-[![LateX](https://img.shields.io/badge/LateX-008080?logo=Latex)](https://www.latex-project.org/)
-[![Mathworks](https://img.shields.io/badge/Mathworks-0076A8?logo=Mathworks)](https://www.mathworks.com/)
-[![ResearchGate](https://img.shields.io/badge/ResearchGates-00CCBB?logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Yihang_He)
+<font color=#39c5bb>__♫ 顔上げて微笑めば　笑顔取り戻す魔法になる ♫__</font>
+<br>
+<font color=#39c5bb>__♫ こころ　Knock Knock Knock ♫__</font>
+<br>
+<font color=#39c5bb>__♫ 不思議　Trick Trick Trick ♫__</font>
+<br>
+<font color=#39c5bb>__♫ 生まれ変われる　Freely Tomorrow ♫__</font>
+<br>
+<br>
+<img src="https://mitchie-m.com/wp/wp-content/uploads/2013/10/info01-300x301.jpg" width="200" height="200">
